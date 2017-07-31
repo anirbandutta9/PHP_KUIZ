@@ -14,7 +14,7 @@ PHP Kuiz Admin Panel ->
 
 
 ### Full Demo
-[PHP Kuiz](https://www.youtube.com/watch?v=oJ7rNVoCPG0&t)
+[PHP Kuiz](https://www.youtube.com/watch?v=TwSz9bBSpbI)
 
 ### Requirements 
 
